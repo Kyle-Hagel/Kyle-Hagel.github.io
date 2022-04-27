@@ -1,6 +1,6 @@
 /* My Own Stuff */
 .navbar-nav li a.image {
-	padding: 0px 0px 0px 15px;
+	padding: 20px 30px 0px 15px;
 }
 
 section {
@@ -19,28 +19,28 @@ h1#ochre {
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
 	article {
-		padding: 0% 5% 0% 5%;
+		padding: 2% 5% 2% 5%;
 	}
 }
 
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
 	article {
-		padding: 0% 10% 0% 10%;
+		padding: 2% 10% 2% 10%;
 	}
 }
 
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
 	article {
-		padding: 0% 15% 0% 15%;
+		padding: 2% 15% 2% 15%;
 	}
 }
 
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
 	article {
-		padding: 0% 20% 0% 20%;
+		padding: 2% 20% 2% 20%;
 	}
 }
 
